@@ -11,7 +11,7 @@ $git-dump ip
 #### Git Log
 Commit 39er08 shows login pagen before cryptographing the password
 
-####Search details of this commit looking for password
+#### Search details of this commit looking for password
 $git show 39er08 | grep passqord
 
 Password found, it's the flag. 
